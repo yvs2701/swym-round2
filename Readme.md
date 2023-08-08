@@ -1,3 +1,5 @@
+[Demo video](demo.mkv)
+
 ## Installation
 Clone this git repo and run:
 ```bash
